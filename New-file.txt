@@ -23,4 +23,8 @@ Editing from develop local branch!!!
 
 Change from GitBash local clone!!! 
 
+
 Change from GitBash local clone for conflict!!!
+
+Change from origin master for conflict!!!
+
