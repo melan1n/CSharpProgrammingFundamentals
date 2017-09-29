@@ -6,7 +6,17 @@ This will make a conflict!s
 Adding changes from browser
 
 We resolved the conflict!
+Some changes
+
+
+This will make a conflict!s
+
+Adding changes from browser
+
+We resolved the conflict!
 Hello again!!!
 
 
-Edit and push from master to origin master. 
+Edit and push from master to origin master. Hello again!!!
+
+Editing from develop local branch!!!
