@@ -20,3 +20,5 @@ Hello again!!!
 Edit and push from master to origin master. Hello again!!!
 
 Editing from develop local branch!!!
+
+Change from GitBash local clone!!! 
