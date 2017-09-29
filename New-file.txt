@@ -7,3 +7,5 @@ Adding changes from browser
 
 We resolved the conflict!
 Hello again!!!
+
+Editing from develop local branch!!!
